@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "Price Manipulation"
 date: 2024-08-30 00:00:00 +0800
 categories: [Hello World]
 tags: [Hello World]
