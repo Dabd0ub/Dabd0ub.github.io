@@ -1,7 +1,7 @@
 ---
 title: "Price Manipulation"
 date: 2024-08-30 00:00:00 +0800
-categories: [Write-Up]
+categories: [Write-Ups]
 tags: [Price Manipulation]
 ---
 
