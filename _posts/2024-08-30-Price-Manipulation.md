@@ -7,7 +7,7 @@ tags: [Price Manipulation]
 
 # Price Manipulation: Subscription Plans for Just 1 INR
 
-During a pentesting engagement at [Cyber AR](https://cyberar.io/) , Me and Allam discovered a vulnerability that allows users to manipulate pricing in certain systems. Imagine subscribing to a premium service with all the perks at an unbelievable price of just 1 INR. It sounds like a great deal—except it’s not supposed to be possible. But in some cases, vulnerable systems allow users to manipulate key parameters and exploit the checkout process, making it feasible to subscribe to services at practically no cost.
+During a pentesting engagement at [Cyber AR](https://cyberar.io/) , Me and [Mohamed Allam](https://www.linkedin.com/in/m0allam) discovered a vulnerability that allows users to manipulate pricing in certain systems. Imagine subscribing to a premium service with all the perks at an unbelievable price of just 1 INR. It sounds like a great deal—except it’s not supposed to be possible. But in some cases, vulnerable systems allow users to manipulate key parameters and exploit the checkout process, making it feasible to subscribe to services at practically no cost.
 
 In this post, We’ll break down how a pricing manipulation flaw can allow a user to adjust subscription prices on-the-fly and pay a ridiculously low amount, simply by intercepting and modifying data before it’s processed. This type of flaw highlights why price validation on both the client and server sides is essential for online platforms.
 
