@@ -12,5 +12,5 @@ With hands-on experience in offensive security, I actively work as a part-time *
 - **Daimler Truck**  
 - **Zurich Insurance**
 
-I hold the **eWPTX** certification, which has helped me develop deep technical skills in advanced web exploitation and real-world attack simulation.
+I hold the **[eWPTX](https://certs.ine.com/2d7b1827-c30c-4b05-ab52-b0185acd4f4b#acc.du2JUqZw)** certification, which has helped me develop deep technical skills in advanced web exploitation and real-world attack simulation.
 
